@@ -1,1 +1,1 @@
-location.replace("https://ashif.in")
+location.replace("https://www.w3schools.com/")
